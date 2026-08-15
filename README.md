@@ -133,4 +133,4 @@ retail-churn-analysis/
 
 ## Author
 
-Built as a portfolio piece for business analytics roles in retail/e-commerce.
+Built by Aisha Duze as a portfolio piece for business analytics roles in retail/e-commerce.
